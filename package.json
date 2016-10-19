@@ -1,0 +1,19 @@
+{
+  "name": "angular2-4fun",
+  "version": "1.0.0",
+  "description": "angular2学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalantianyi/angular2-4fun.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nalantianyi/angular2-4fun/issues"
+  },
+  "homepage": "https://github.com/nalantianyi/angular2-4fun#readme"
+}
